@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello there 👋
+
+My name is Muhammad Amin Failasuf, Bachelor of Engineering who trying to switch career as a fullstack programmer.
+
+- 🔭 I’m currently working on PT Kwarsa Hexagon as Junior Backend Developer
+- 🌱 I’m currently learning Django, Go and Vue.
+- 🖥️ See my portofolio at {{Coming Soon!}}
+- ✉️ You can contact me at failasuf99@gmail.com
+
+### Skills
+
+<a href="https://go.dev/doc/" target="blank"><img align="center" src="https://go.dev/" height="100" /></a>
 
 <!--
 **amienism/amienism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
