@@ -9,8 +9,6 @@ My name is Muhammad Amin Failasuf, Bachelor of Engineering who trying to switch 
 
 ### Skills
 
-<a href="https://go.dev/doc/" target="blank"><img align="center" src="https://go.dev/" height="100" /></a>
-
 <!--
 **amienism/amienism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
