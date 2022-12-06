@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋 Muhammad Amin Failasuf</h1>
-<h3 align="center">Bachelor of Engineering who trying to switch career as a fullstack programmer.</h3>
+<h3 align="center">Bachelor of Electrical Engineering who trying to switch career as a fullstack programmer.</h3>
 
 - 🔭 I’m currently working on **PT Kwarsa Hexagon as Junior Backend Developer**
 
