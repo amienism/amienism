@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **I’m currently learning Django, Go, Node and Vue.**
 
-- 👨‍💻 All of my projects are available at [{{ coming soon! }}]({{ coming soon! }})
+- 👨‍💻 All of my projects are available at [https://](https://amienism.github.io/)
 
 - 📫 How to reach me **failasuf99@gmail.com**
 
