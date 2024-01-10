@@ -1,9 +1,9 @@
 <h1 align="center">Hello There 👋 Muhammad Amin Failasuf</h1>
 <h3 align="center">Bachelor of Electrical Engineering who trying to switch career as a fullstack programmer.</h3>
 
-- 🔭 I’m currently working on **PT Kwarsa Hexagon as Junior Backend Developer**
+- 🔭 I’m currently working on **PT Kwarsa Hexagon as Junior Web Developer**
 
-- 🌱 I’m currently learning **I’m currently learning Django, Go, Node and Vue.**
+- 🌱 I’m currently learning **I’m currently learning Go, Rust, Node, Vue and Laravel.**
 
 - 👨‍💻 All of my projects are available at [Personal-Portofolio](https://amienism.github.io/)
 
